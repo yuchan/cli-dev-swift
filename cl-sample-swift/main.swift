@@ -8,5 +8,5 @@
 
 import Foundation
 
-println("Hello, World!")
-
+let module:ModuleClass = ModuleClass(str: "test")
+module.print()
